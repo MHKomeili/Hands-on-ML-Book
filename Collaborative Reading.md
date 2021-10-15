@@ -1,0 +1,2 @@
+University of Isfahan AI Community [UI-AI Telegram Channel](https://t.me/uiai_community) is holding  group reading sessions in order to cover this great book.
+Sessions are on Thursdays at 18 and being held via skyroom channel of the community.

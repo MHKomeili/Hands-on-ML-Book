@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "b83d440234ca60d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "99d90cb300d5ae76",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Summaries.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7a28bee27ea5acd",
+    "type": "split",
+    "children": [
+      {
+        "id": "85ded3be29277997",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "358a82cca4529f4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0800bc5b8d13acf7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1120052e9a01e80d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b4086a88688ff80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "325c9aa44926d9b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Summaries.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "99d90cb300d5ae76",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Book Intruduction.md",
+    "Table of Content.md"
+  ]
+}
